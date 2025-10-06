@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "b2c6c7b154b465ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "134b464e6c01afcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9930908b050af7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semicondutores/Ondas e Partículas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ondas e Partículas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9bc5f310da75ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfaebc5c88cc0e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944dc123bac8e6ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "60fd8182a263ad76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c9f4278bc393ab46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6154d229f5fb1626",
+    "type": "split",
+    "children": [
+      {
+        "id": "90852fdc654c0133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a74053ded30f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semicondutores/Ondas e Partículas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Ondas e Partículas"
+            }
+          },
+          {
+            "id": "892fff6a47f7bcd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semicondutores/Ondas e Partículas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Ondas e Partículas"
+            }
+          },
+          {
+            "id": "78eaa37850e5d5ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfaa869ebfe4f391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semicondutores/Ondas e Partículas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Ondas e Partículas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "c9930908b050af7b",
+  "lastOpenFiles": [
+    "Semicondutores/Física do Estado Sólido.md",
+    "Semicondutores/Introdução aos Dispositivos Semicondutores.md",
+    "Semicondutores/Ondas e Partículas.md",
+    "Cálculo I/Uma apresentação do Cálculo.md",
+    "Pasted image 20251005165141.png",
+    "Semicondutores/Images/atomo_com_dipolo.png",
+    "Semicondutores/Images/atomo_sem_dipolo.png",
+    "Semicondutores/Images/liga_ionica.png",
+    "Cálculo I/Introdução ao Cálculo.md",
+    "Cálculo I/Números Reais e Funções.md",
+    "Eletromagnetismo",
+    "Cálculo I/Bibliografia.md",
+    "Semicondutores/Images",
+    "Semicondutores",
+    "Cálculo I/Images/Apresentação/ilustracao_derivada.png",
+    "Sem título.canvas",
+    "Cálculo I/Images/Apresentação/nova_stereometria.jpg",
+    "Cálculo I/Images/Apresentação/papiro_de_moscou.jpg",
+    "Bem-vindo.md",
+    "Cálculo I/Images/Apresentação/aprox_area.png",
+    "Cálculo I/Images/Apresentação",
+    "Cálculo I/Images",
+    "image 1.png",
+    "Cálculo I"
+  ]
+}

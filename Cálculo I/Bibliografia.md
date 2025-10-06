@@ -1,0 +1,7 @@
+- **STEWART, James.** _Cálculo: Volume 1_. 9ª edição. São Paulo: Cengage Learning, 2021.
+- **GUIDORIZZI, Hamilton Luiz.** _Um Curso de Cálculo: Volume 1_. 6ª edição. Rio de Janeiro: LTC, 2016.
+- **COURANT, Richard.** _Introdução ao Cálculo e à Análise Matemática_. Rio de Janeiro: LTC, 1986.
+- **MELCHIORS, Angeline.** História do cálculo diferencial e integral. _Revista do Centro Universitário Leonardo da Vinci (Uniasselvi)_, 2015. Disponível em: [publicacao.uniasselvi.com.br](https://publicacao.uniasselvi.com.br/index.php/MAD_EaD/article/view/556?utm_source=chatgpt.com).
+- **GURGEL, Paulo**. Kepler e o barril de vinho.  _Blog do Paulo Gurgel_, 2020. Disponível em: [Kepler e o barril de vinho](https://blogdopg.blogspot.com/2020/11/kepler-e-o-barril-de-vinho.html)
+- **KILHIAN, Kleber**. Os problemas 10 e 14 do Papiro Matemático de Moscou. _O Baricentro da Mente - porque o conhecimento é infinito_, 2022. Disponível em: [Os problemas 10 e 14 do Papiro Matemático de Moscou](https://www.obaricentrodamente.com/2022/03/os-problemas-10-e-14-do-papiro-matematico-de-moscou.html)
+- **SANTOS, Guilherme**. A História do Cálculo. _Phylos.net - pensar e imaginar_, 2017. Disponível em: [A História do Cálculo](https://phylos.net/2017-12-18/a-historia-do-calculo)
