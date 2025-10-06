@@ -1,0 +1,4 @@
+-    Ronald J. Tocci, Neal S. Widmer e Gregory L. Moss. “Sistemas Digitais – Princípios e Aplicações”, 11ª Edição. Prentice Hall. 
+	- [Sistemas Digitais: Princípios e Aplicações](https://www.kufunda.net/publicdocs/Sistemas%20Digitais%20Princ%C3%ADpios%20e%20Aplica%C3%A7%C3%B5es%20(Ronald%20J.%20Tocci,%20Neal%20S.%20Widmer%20etc.).pdf)
+-    Ercegovac, M.; Lang, T.; Moreno, J.H. “Introdução A Sistemas Digitais”. Porto Alegre, Ed. Bookman, 2000., Editora Bookman.
+-    Roberto D’Amore. “VHDL Descrição e Síntese de Circuitos Digitais”. LTC 2005.  Publishing Company, Inc.
