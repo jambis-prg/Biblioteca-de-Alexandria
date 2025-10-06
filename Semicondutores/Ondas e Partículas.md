@@ -13,7 +13,7 @@ No fim do século XX, os cientistas perceberam que as ondas eletromagnéticas se
 
 Anos mais tardes as teorias de Eistein, que lhe renderam um prêmio nobel, foram posteriormente explicadas de forma coerente pela teoria quântica de campos. O impacto mais importante dessa descoberta é que a onda eletromagnética é **quantizada em energia**, ou seja, existe uma frequência $v$ tal que para todos os valores de energia ela só pode ser gerada como múltiplos dessa frequência a partir da fórmula $nhv$, sendo $h$ a constante de Planck ($h = 6,6262 \cdot 10^{-34}J.s$).
 
-Para Eistein a onda viajava em pacotes chamados fótons, quando a onda possuia uma alta energia a quantidade de fótons era tão grande que não ficava tão perceptível a discretização da energia e por isso poderia ser descrito pela física clássica, onde a equação que relaciona a energia com a frequência da onda é dada por:
+Para Eistein a onda viajava em pacotes chamados fótons, quando a onda possuía uma alta energia a quantidade de fótons era tão grande que não ficava tão perceptível a discretização da energia e por isso poderia ser descrito pela física clássica, onde a equação que relaciona a energia com a frequência da onda é dada por:
 $$
 E = h \cdot f
 $$
@@ -40,7 +40,7 @@ $$
 $$
 Ou seja, o elétron se comportar como onda possui um impacto muito grande na escala dos átomos, uma vez que $2,65Å$ é correspondente ao raio covalente de átomo de Césio $(Cs)$.
 
-Para descrever as características de um elétron de forma quantitativa fazemos isso através de uma **função de onda** $Ψ$. Esse elétron possui momentum $p$ bem definido e por isso possui uma **incerteza** na sua posição. A fórmula utlizada para descrever o elétron é:
+Para descrever as características de um elétron de forma quantitativa fazemos isso através de uma **função de onda** $Ψ$. Esse elétron possui momentum $p$ bem definido e por isso possui uma **incerteza** na sua posição. A fórmula utilizada para descrever o elétron é:
 $$
 Ψ(r,t)=A\cdot cos(k\cdot r - wt)
 $$
