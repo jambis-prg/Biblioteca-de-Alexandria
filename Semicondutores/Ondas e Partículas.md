@@ -48,3 +48,21 @@ Onde $k={2\pi}/{\lambda_{elétron}}$.
 
 ---
 ## Elétron Livre
+
+Partículas cujo movimento é limitado em uma região do espaço só podem ocupar estados estacionários de energia discreta, ou seja, tem **energia quantizada**. Por isso os níveis de energia dos elétrons são 1s, 2s, 2p, 3s, etc. 
+
+O elétron mais externo vê um potencial muito forte que o impede de se aproximar, mas ao mesmo tempo o impede de se afastar completamente, porém apesar dessa região limitada ele é livre, pois não possui forças externas atuando sobre ele, possuindo um potencial $V = 0$ dentro da sua região limitada.
+
+Como a partícula é livre ela se move com velocidade constante e dessa forma relacionando o momentum da partícula com sua energia cinética temos:
+$$
+E = \frac{p^2}{2m} = \frac{\hbar^2k²}{2m}
+$$
+Onde $k=2\pi/\lambda$ é o vetor de onda. Dessa forma a energia fica definida como uma parábola que nem na figura abaixo.
+![[eletron_livre_vetor.png]]
+Porém, como dito anteriormente os elétrons estão confinados a uma região limitada do espaço o que significa que possuem um valor discreto de energia, sendo assim:
+![[eletron_confinado_vetor.png]]
+Ou seja, a fórmula da energia dado por um elétron confinado a uma região limitada é:
+$$
+E_n=\frac{\hbar²\pi²}{2mL²}\cdot n², n \in \mathbb{N}
+$$
+Onde $n$ é o **número quântico**, pois corresponde a **valores quantizados** de energia, já que o elétron não pode assumir um valor qualquer de energia.
